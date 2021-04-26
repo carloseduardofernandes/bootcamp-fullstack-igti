@@ -13,8 +13,7 @@ FrontEnd com React
 Desenvolvimento de aplicação com React, conectando-se à API criada no módulo anterior.
 
 MÓDULO 4 - 32h
-Persistência de dados com o MongoDB, versionamento de código e implantação
-Publicação da aplicação no Github e implantação no Heroku.
+Persistência de dados com o MongoDB e MongoDB Atlas, versionamento de código com GIT, Publicação da aplicação no Github e implantação no Heroku.
 
 DESAFIO FINAL - 12h
 Desafio Final
