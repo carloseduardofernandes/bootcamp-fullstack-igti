@@ -1,0 +1,3 @@
+Pessoal, segue o código-fonte visto durante a segunda aula interativa, que engloba o Desafio e o projeto react-megasena.
+
+ 

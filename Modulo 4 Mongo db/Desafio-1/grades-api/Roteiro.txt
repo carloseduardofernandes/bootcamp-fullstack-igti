@@ -1,0 +1,10 @@
+Roteiro Segunda aula ✓
+
+(✓) MongoDB: Regex
+(✓) Desafio: Criacao da base de dados e import
+(✓) Desafio: Clone do front-end e back-end
+(✓) Desafio: Implementacao do schema
+(✓) Desafio: Implementacao do controller
+(✓) Desafio: Publicar o front-end
+(✓) Desafio: Publicar o back-end
+(✓) Pacote: winston-mongodb

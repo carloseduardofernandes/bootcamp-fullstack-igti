@@ -1,0 +1,14 @@
+npm init > criar projeto/pacote (coloque -y na frente do init para yes todas perguntas);
+
+
+executar => node 'arquivo.js'
+
+**instalar nodemon(ao mudar configuracoes não precisa ficar restartando server)
+-> npm install -g nodemon
+
+**rodar projeto com nodemon 
+-> nodemon index.js
+
+**instalar express(primeiro crie um projeto com npm init -y)
+
+-> npm install express

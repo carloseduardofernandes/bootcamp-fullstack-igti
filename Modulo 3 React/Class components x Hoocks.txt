@@ -1,0 +1,22 @@
+Class Components:
+
+baseiam-se em classes do JavaScript, herdam obrigatoriamente do objeto Component do React e possuem, essencialmente:
+
+Construtor de classe,Método render
+e lifecycle methods:
+
+componentDidMount,componentDidUpdate e
+componentWillUnmount.
+
+Functional Components:
+
+- São baseados em funções e não mais em classes.
+- Não possuem lifecycle methods por padrão.
+- Manipulam props.
+- Retornam um elemento JSX.
+
+Functional Components com Hooks:
+funcionalidade dos React Hooks visa justamente unir a manipulação de 
+estado dos Class Components com a praticidade dos Functional Components.
+
+

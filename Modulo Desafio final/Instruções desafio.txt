@@ -1,0 +1,14 @@
+Prezados alunos, sejam bem-vindos ao Desafio Final do Módulo. Segue o código-fonte de apoio em anexo. Mais algumas considerações importantes:
+
+Desta vez, o material mais importante é a documentação. Leia-a com bastante atenção.
+Há um pequeno problema nos dados de lançamentos - há diversos lançamentos cuja descrição e categoria são "Receita XXXX" mas que na verdade são despesas. Sim, foi falha no meu programa de geração dos dados aleaórios. Já peço desculpas de antemão. Entretanto, isso não vai prejudicar as questões do Desafio Final. É perfeitamente possível, na vida real, cadastrar uma receita com a descrição "Almoço" e uma despesa com a descrição "Salário", por exemplo. O que vale aqui, no fim das contas, é o atributo type, que pode ser '-' (despesa) ou '+' (receita). Esse é o atributo que deve servir de referência nos cálculos de total de despesas e receita por mês, combinado?
+Boa parte do backend já está pronta, como vocês podem ver no material de apoio.
+Implementem primeiramente o backend e testem as rotas com o Insomnia. Boa parte do backend já está feita.
+Em seguida, implementem o Front End sem se preocupar tanto com a interface no primeiro momento. Foquem nos dados corretos e filtrados por período, CRUD e totalizadores.
+Fazendo as duas etapas acima, vocês já estão aptos a responderem o questionário final.
+Após responderem o Questionário, façam com mais calma as melhorias de interface e implantação no Heroku. Aproveitem para adicionar o projeto ao portfólio pessoal de vocês.
+ 
+
+Att.,
+
+Prof. Raphael Gomide

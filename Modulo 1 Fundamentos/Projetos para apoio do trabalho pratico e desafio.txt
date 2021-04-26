@@ -1,0 +1,10 @@
+Prezados alunos, seguem os projetos semelhantes ao Trabalho Prático e Desafio. 
+Lembro mais uma vez que utilizem os projetos apenas como último recurso ou como consulta caso tenham dificuldades. 
+
+O ideal é que vocês façam os projetos sozinhos, com o apoio do fórum, ok? Assim, vocês aprenderão muito mais.
+
+ 
+
+Projeto semelhante ao Trabalho Prático -  (Links para um site externo.)https://codesandbox.io/s/calculator-range-vrdj9 (Links para um site externo.)
+
+Projeto semelhante ao Desafio -  (Links para um site externo.)https://codesandbox.io/s/search-countries-4dfus?file=/index.html

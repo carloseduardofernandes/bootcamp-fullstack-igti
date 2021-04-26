@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trabalho RGB</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <h1 class="title">Selector RGB</h1>
+
+    <div class="principal">
+      <div>
+        <span style="padding-right: 1px; color: red" class="destaque"
+          >(R) Vermelho:</span
+        >
+        <input type="range" id="inputRangeRed" min="0" max="255" value="0" />
+        <input type="text" disabled id="inputTextRed" value="0" />
+      </div>
+
+      <div>
+        <span style="padding-right: 25px; color: green" class="destaque"
+          >(G) Verde:</span
+        >
+        <input type="range" id="inputRangeGreen" min="0" max="255" value="0" />
+        <input type="text" disabled id="inputTextGreen" value="0" />
+      </div>
+
+      <div>
+        <span style="padding-right: 35px; color: blue" class="destaque"
+          >(B) Azul:</span
+        >
+        <input type="range" id="inputRangeBlue" min="0" max="255" value="0" />
+        <input type="text" disabled id="inputTextBlue" value="0" />
+      </div>
+
+      <div style="padding-top: 30px; padding-left: 150px">
+        <div class="divRgbInitialColor" id="divRgbColor"></div>
+      </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>

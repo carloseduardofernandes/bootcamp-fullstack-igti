@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafio Pesquisa nomes</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body class="background">
+    <h1 class="title">Pesquisa de Usuários</h1>
+
+    <div class="principal">
+      <label>Busca</label>
+      <div class="filters">
+        <form>
+          <input
+            type="text"
+            id="inputBusca"
+            style="width: 90%"
+            placeholder="Digite um nome aqui..."
+          />
+          <input type="submit" id="btnBuscar" />
+        </form>
+      </div>
+
+      <div class="div-side">
+        <div class="border" id="tabUsers">Nenhum Usuário filtrado</div>
+
+        <div class="border" id="tabStatistics">Nada a ser exibido</div>
+      </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>

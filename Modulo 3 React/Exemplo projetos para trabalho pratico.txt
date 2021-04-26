@@ -1,0 +1,15 @@
+Pessoal, como uma forma de apoio ao Trabalho Prático, criei um pequeno app React no CodeSandbox para ilustrar um exemplo de implementação com barras horizontais.
+
+Link: https://codesandbox.io/s/react-barras-007z5 (Links para um site externo.)
+
+ 
+
+Como uma forma de apoio ao Desafio, criei um pequeno app React no CodeSandbox para ilustrar um exemplo de implementação de criação de "caixas".
+
+Link: https://codesandbox.io/s/react-caixas-kf6mi?file=/src/App.js
+
+ 
+
+Att.,
+
+Prof. Raphael Gomide

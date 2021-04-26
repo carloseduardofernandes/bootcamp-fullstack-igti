@@ -1,0 +1,21 @@
+.title {
+  color: blue;
+  text-align: center;
+}
+
+.destaque {
+  font-weight: bold;
+}
+
+.principal {
+  padding: 5rem;
+}
+
+.divRgbInitialColor {
+  align-content: center;
+  padding-left: 30px;
+  padding-top: 5px;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(10, 222, 230);
+}

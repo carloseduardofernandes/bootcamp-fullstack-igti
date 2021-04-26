@@ -1,0 +1,21 @@
+.spanTextSize {
+  font-size: 0.9em;
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 5px;
+}
+
+.flexCollumn {
+  min-width: 222px;
+  max-width: 222px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

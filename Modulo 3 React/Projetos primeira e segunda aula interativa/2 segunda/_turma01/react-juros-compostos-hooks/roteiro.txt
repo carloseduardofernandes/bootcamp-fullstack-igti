@@ -1,0 +1,27 @@
+Desafio - Módulo 03 - roteiro
+=============================
+
+(x) Mostrar state de App.js
+   (x) initialValue 1000
+   (x) monthlyInterest 1
+   (x) monthlyPeriod 1
+   (x) installments []
+   
+(x) Mostrar effect para calcular as parcelas na
+   função calculateInterest, com deps =
+   [initialValue, monthlyInterest, monthlyPeriod]   
+
+(x) Mostrar cálculo feito em calculateInterest
+
+(x) Mostrar os seguintes componentes:
+
+   (x) Form, com os 3 inputs do tipo number
+      recebendo os dados do estado de App.js
+      e invocando onChangeData, que por sua 
+      vez invoca handleFormChanges de App.js
+
+   (x) Installments, que vai ser o container 
+      de Installment e receberá as parcelas   
+
+   (x) Installment, que será renderizado para 
+      cada parcela

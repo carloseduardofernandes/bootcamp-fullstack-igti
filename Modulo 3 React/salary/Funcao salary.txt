@@ -1,0 +1,2 @@
+Pessoal, conforme comentei na documentação do Trabalho Prático, segue arquivo salary.js, 
+que contém a função para calcular salário. Cabe a vocês integrá-lo ao projeto de vocês.

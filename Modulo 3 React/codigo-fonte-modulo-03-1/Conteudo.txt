@@ -1,0 +1,6 @@
+* react-projeto-base.zip - Projeto vazio para ser utilizado por vocês para codificarem. Ele já contém o Materialize instalado e configurado.
+* react-aulas.zip - Código-fonte referente às gravações
+* react-prontos.zip - Código-fonte feito de forma planejada antes das gravações
+
+Para qualquer um dos projetos, é importante que o Node.js e o Yarn estejam instalados conforme instruções das videoaulas iniciais. 
+Além disso, é importante que o comando "yarn" seja executado na pasta raiz de cada projeto para que todas as dependências sejam "baixadas" e incluídas no projeto.

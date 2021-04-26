@@ -1,0 +1,12 @@
+VsCode;
+
+Extensoes vscode para react: 
+
+VS Code ES7 React/Redux/React-Native/JS snippets;
+Live Server;
+
+Nodejs v12.16.2;
+Yarn v1.22.1;
+Comander (cmder, cmd mais poderoso e funcional);
+
+

@@ -1,0 +1,36 @@
+-- Criar app usando template oficial create-react-app:
+ rode o comando: 
+
+npx create-react-app --scripts-version 3.4.1 nomeProjeto no comander(cmder);
+
+--limpar ela comander:
+
+ctrl+l
+
+-rodar servidor de desenvolvimento(entrar na pasta e rodar o comando abaixo):
+
+yarn start ou npm start
+
+-instalar as dependencias(entrar na pasta)
+
+yarn install
+
+-criar build de producao(otimizada, entrar na pasta)
+
+yarn build ou npm run build
+
+-Criar class component atalho extensao
+
+rcc+tab
+
+-Criar function component atalho extensao
+
+rfc+tab
+
+-Localizar arquivo vscode:
+ctrl+p
+
+
+
+
+

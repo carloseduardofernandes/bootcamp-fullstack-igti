@@ -1,0 +1,3 @@
+VsCode
+nodejs
+imnsominia para consumir apis(semelhante ao postman)

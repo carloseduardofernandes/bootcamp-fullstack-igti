@@ -1,0 +1,25 @@
+React Megasena - roteiro
+========================
+
+() App.js
+  (x) Mostrar função getEmptyArray()
+  (x) Mostrar função generateNumber()
+
+  (x) Mostrar estado: 
+     numbers, pickedNumbers, calculating, limit
+
+  (x) Mostrar renderização
+  (x) Mostrar handleLimitChange
+  (x) Mostrar handleButtonClick
+
+  (x) Mostrar <Form /> com input de limite e botão.      
+  (x) Mostrar os números vazios em <Numbers /> e <Number />     
+  (x) Mostrar <PickedNumbers />
+
+  (x) Mostrar o cálculo com useEffect e setInterval
+  (x) Verificar que o cálculo ocorre no início do App
+  (x) Mostrar useRef
+  (x) Retirar useRef e ver que acontece
+  (x) Implementar useRef para manter o foco no input após 
+     todas as execuções
+  

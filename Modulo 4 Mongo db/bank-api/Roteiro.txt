@@ -1,0 +1,16 @@
+Roteiro Primeira aula ✓
+
+(✓) Trabalho Pratico: Apresentar o modelo criado com o mongoose
+(✓) Trabalho Pratico: Import dados em massa no banco
+(✓) Trabalho Pratico: Apresentar a arquitetura do projeto
+(✓) Trabalho Pratico: Apresentar a implementação dos métodos/endpoints
+(✓) Trabalho Pratico: Apresentar a aplicacao do dotenv
+(✓) MongoDB Compass: Atualizações
+(✓) MongoDB Compass: Plano de execução
+(✓) MongoDB Compass: Criação de index
+(✓) Hands-on: Importação .json
+( ) Hands-on: Modelo podcasts
+( ) Hands-on: Controller podcasts 
+    (create, findAll, findOne, update, remove, removeAll)
+( ) Hands-on: Routes podcasts
+( ) Hands-on: Pacote dotenv

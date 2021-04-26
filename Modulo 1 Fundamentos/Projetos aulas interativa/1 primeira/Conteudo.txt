@@ -1,0 +1,5 @@
+Pessoal, segue código-fonte visto nas aulas interativas de todas as turmas, o que inclui tanto o 
+projeto do Trabalho Prático quanto o projeto de introdução ao Node.js (gerador de números da Mega Sena).
+ Os projetos são semelhantes, mas podem ter algumas implementações diferentes. Para quem tiver disponibilidade, vale a pena estudar todos.
+
+Lembrem-se de que é importante executar o comando npm install em cada pasta para que as dependências sejam instaladas.
