@@ -1,0 +1,49 @@
+**COMANDO ANOTACOES MONGODB**
+
+
+porta padrao: 27017
+
+compass = cli
+
+shell = comandos
+
+varrsao aulas = 4.2.8
+
+Instalação mongo via docker e do mongo compass
+
+1 - criar o container
+docker run --name some-mongo -p 27017:27017 -d mongo
+
+2 - instalação mongo compass
+- faça o download (https://www.mongodb.com/products/compass) link (Links para um site externo.) da versão .deb
+
+- vá até a pasta de Downloads
+- execute o comando "sudo dpkg --install nome do arquivo"
+
+3 - conectar no mongo
+- abra o mongo compass e selecione a opção "Fill in connection fields individually"
+- verifique se o hostname esta localhost e se a porta esta 27017
+- agora só conectar ;)
+
+
+Tabelas no mongo = coleções(dentro delas, tem documentos e dentro campos);
+cm
+
+baixar emagem do mongo mais atual(digitar no cmd): 
+docker pull mongo:latest
+
+cria instancia apartir de uma img:
+
+docker run mongo -p 27017:27017 -d mongo(erro ver porque)
+
+Aula 1.3 - Banco de Dados no MongoDB
+
+
+
+
+
+
+
+
+
+
