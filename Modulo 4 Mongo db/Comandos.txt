@@ -1,7 +1,6 @@
 **COMANDO ANOTACOES MONGODB**
 
-
-porta padrao: 27017
+porta padrao mongo: 27017
 
 compass = cli
 
@@ -34,7 +33,7 @@ docker pull mongo:latest
 
 cria instancia apartir de uma img:
 
-docker run mongo -p 27017:27017 -d mongo(erro ver porque)
+docker run --name mongo -p 27017:27017 -d mongo
 
 Aula 1.3 - Banco de Dados no MongoDB
 
