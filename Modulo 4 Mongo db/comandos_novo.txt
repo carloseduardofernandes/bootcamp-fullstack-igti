@@ -1,0 +1,68 @@
+*** COMANDOS MONGO DB *** 
+
+MongoDB playground(treino):
+
+https://www.mplay.run/mongodb-online-terminal
+
+https://mongoplayground.net/
+
+https://docs.mongodb.com/manual/tutorial/remove-documents/ (tem shell também)
+
+Criar um banco de dados:
+
+use meubanco 
+
+msg switched to db meubanco = indica que estamos agora usando o banco de dados criado
+
+apos isso atraves da variavel global db, podemos acessar os principais comandos como:
+
+**Select:
+
+para pegar os dados da collection chamada users:
+
+db.geCollection('users') ou podemos chamar o nosso banco diretamente meubanco.users
+
+**Insert:
+
+db.users.insert({"name":"teste"})
+
+retornara: WriteResult({"nInserted": 1})
+
+**InsertMany:
+	db.users.insertMany([
+	{"name":"teste"},
+	{"name":"teste2"},
+	{"name":"teste3"}
+]);
+
+**Find
+db.users.find()
+
+**Update
+db.users.update(criterioDaBusca, oqueAlterar) 
+
+exemplo (Irá alterar o nome "teste" para "teste2"):
+
+db.users.update({"name":"teste"}, {"name":"teste2"}) 
+
+retornara: WriteResult({"nMatched": 1, "nUpserted": 0, "nModified": 1})
+
+**Delete
+
+Unico:
+db.users.deleteOne( { status: "D" } )
+
+Muitos:
+db.users.deleteMany({status : "A" })
+
+Unico e Muitos em unico comando:
+
+db.users.remove({"Name":"teste"}, <justOne>) = deve-se passar true no segundo parametro para apagar apenas 1 registro
+
+
+**Aggregations
+
+db.orders.aggregate([
+   { $match: { status: "A" } },
+   { $group: { _id: "$cust_id", total: { $sum: "$amount" } } }
+])
